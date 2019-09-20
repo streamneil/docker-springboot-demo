@@ -29,10 +29,10 @@ pom.xml
 
 # 构建命令
 
-``$ ./mvnw install dockerfile:build``
+`$ ./mvnw install dockerfile:build`
 
 # 发布镜像到`Docker`
 
-``$ ./mvnw dockerfile:push``
+`$ ./mvnw dockerfile:push`
 
-前提需要注册一个``dockerID`，使用科学上网。
+前提需要注册一个`dockerID`，使用科学上网。
